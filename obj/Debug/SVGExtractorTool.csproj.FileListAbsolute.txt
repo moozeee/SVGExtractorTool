@@ -1,0 +1,16 @@
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\SVGExtractorTool.exe.config
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\SVGExtractorTool.exe
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\SVGExtractorTool.pdb
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.csprojAssemblyReference.cache
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.MainForm.resources
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.Properties.Resources.resources
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.csproj.GenerateResource.cache
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.csproj.CoreCompileInputs.cache
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.exe
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.pdb
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\obj\Debug\SVGExtractorTool.csproj.CopyComplete
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\victor.khomyak\Documents\Visual Studio 2017\Projects\SVGExtractorTool\bin\Debug\Microsoft.WindowsAPICodePack.xml
