@@ -61,11 +61,11 @@ namespace SVGExtractorTool
             if (!Directory.Exists(finalPath))
             {
                 Directory.CreateDirectory(path);
-                File.Create(finalPath).Dispose();
-                using (TextWriter tw = new StreamWriter(finalPath))
-                {
-                    tw.WriteLine(content);
-                }
+            }
+            File.Create(finalPath).Dispose();
+            using (TextWriter tw = new StreamWriter(finalPath))
+            {
+                tw.WriteLine(content);
             }
         }
 
